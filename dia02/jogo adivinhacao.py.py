@@ -1,3 +1,11 @@
+"""
+#Jogo de Adivinhação#
+
+O intuíto do jogo é que você tente acertar um número aleatório de 1 a 100
+Em um total de 7 tentativas.
+Você pode jogar quantas vezes quiser, quando não quiser mais, você terá um retorno
+Geral de como foi seu desempenho em todas as partidas jogadas.
+"""
 import random
 total_geral = 0
 partidas_jogadas = 0

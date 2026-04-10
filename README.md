@@ -14,7 +14,7 @@ Repositório com projetos e exercícios o meu aprendizado em Python, focado em B
 |dia 01| Variáveis, tipos de dados, input/output |
 |dia 02| Condicionais (if/elif/else), loops (for/while) |
 |dia 03| Funções, listas |
-|dia 04| Dicionários, strings, sistema de cadastro |
+|dia 04| resolução de exercício no Beecrowd |
 |dia 05| Orientação a Objetos, classes |
 
 ## Projetos

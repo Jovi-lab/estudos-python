@@ -26,6 +26,7 @@ Repositório com projetos e exercícios o meu aprendizado em Python, focado em B
 - Curso em Vídeo (Youtube)
 - MIMO
 - Beecrowd (exercícios de lógica)
+- RocketSeat
 
 
 ---

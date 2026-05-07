@@ -27,6 +27,7 @@ Repositório com projetos e exercícios o meu aprendizado em Python, focado em B
 - MIMO
 - Beecrowd (exercícios de lógica)
 - RocketSeat
+- Google Cloud Computing Foundations
 
 
 ---

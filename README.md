@@ -1,6 +1,6 @@
 # estudos de Python
 
-Repositório com projetos e exercícios o meu aprendizado em Python, focado em Back-end e Dados.
+Repositório com projetos e exercícios do meu aprendizado em Python, focado em Back-end e Dados.
 
 ## Tecnologias
 - Python 3.x

@@ -28,6 +28,7 @@ Repositório com projetos e exercícios do meu aprendizado em Python, focado em 
 - Beecrowd (exercícios de lógica)
 - RocketSeat
 - Google Cloud Computing Foundations
+- Google Cloud Cybersecurity
 
 
 ---
